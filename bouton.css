@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+    font-family: "Arial";
+    font-size: 20px;
+    color:black ;
+    }
+    button{
+      border-radius: 50px;
+      background-color: rgb(253, 232, 206);
+      border: none;
+      width: 150px;
+      height: 30px;
+    }
+    body{
+      background-color: rgb(197, 148, 148);
+    }
+    button:hover{
+      background-color: rgb(212, 212, 173);
+    }
+    a:hover{
+      color:rgb(71, 71, 212);
+    }

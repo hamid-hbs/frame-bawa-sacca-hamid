@@ -1,0 +1,11 @@
+table{
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+}
+h3{
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
